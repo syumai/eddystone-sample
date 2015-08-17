@@ -1,0 +1,10 @@
+{
+	"name": "eddystone-sample",
+	"description": "Eddystone app sample for Node.js" ,
+	"repository": "http://github.com/syumai/eddystone-sample.git",
+	"dependencies": {
+		"express": "4.13.3",
+		"body-parser": "1.13.3",
+		"eddystone-beacon": "1.0.1"
+	}
+}
